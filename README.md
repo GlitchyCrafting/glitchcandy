@@ -2,6 +2,9 @@
 
 A dark and vibrant colorcheme
 
+- [Neovim](https://github.com/GlitchyCrafting/glitchcandy-nvim)
+- More coming soon
+
 ### Spec
 
 | Name       | Color Code |
