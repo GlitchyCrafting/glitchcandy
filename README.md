@@ -1,6 +1,6 @@
 # glitchcandy
 
-A dark and vibrant colorcheme
+A dark and vibrant colorscheme
 
 - [Neovim](https://github.com/GlitchyCrafting/glitchcandy-nvim)
 - [Sway](https://github.com/GlitchyCrafting/glitchcandy-sway)
