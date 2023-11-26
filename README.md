@@ -3,7 +3,13 @@
 A dark and vibrant colorcheme
 
 - [Neovim](https://github.com/GlitchyCrafting/glitchcandy-nvim)
-- More coming soon
+- [Sway](https://github.com/GlitchyCrafting/glitchcandy-sway)
+- [Mako](https://github.com/GlitchyCrafting/glitchcandy-mako)
+- [Kitty](https://github.com/GlitchyCrafting/glitchcandy-kitty)
+- [GTK](https://github.com/GlitchyCrafting/glitchcandy-gtk)
+- [Fuzzel](https://github.com/GlitchyCrafting/glitchcandy-fuzzel)
+- [CSS](https://github.com/GlitchyCrafting/glitchcandy-css)
+- [Cava](https://github.com/GlitchyCrafting/glitchcandy-cava)
 
 ### Spec
 
